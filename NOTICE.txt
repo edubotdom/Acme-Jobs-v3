@@ -31,4 +31,5 @@ This project has been created by the following people:
 - Juan Noguerol Tirado (juanogtir@alum.us.es)
 - Eduardo Miguel Botía Domingo (edubotdom@alum.us.es)
 - Javier Vázquez Zambrano (javvazzam@alum.us.es)
+- Daniel Arellano Martínez (danaremar@alum.us.es)
 
