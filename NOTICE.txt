@@ -32,4 +32,5 @@ This project has been created by the following people:
 - Eduardo Miguel Botía Domingo (edubotdom@alum.us.es)
 - Javier Vázquez Zambrano (javvazzam@alum.us.es)
 - Daniel Arellano Martínez (danaremar@alum.us.es)
+- Sergio Aguayo Orozco (seraguoro@alum.us.es)
 
