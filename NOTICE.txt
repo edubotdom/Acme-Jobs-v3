@@ -27,3 +27,4 @@ The following tools and components are required:
 	- Lombok 1.18.8
 
 
+- Juan Noguerol Tirado (juanogtir@alum.us.es)
