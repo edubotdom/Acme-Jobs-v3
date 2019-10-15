@@ -41,6 +41,7 @@ master.menu.administrator.shutdown = Parar el sistema
 
 master.menu.provider = Proveedor
 master.menu.provider.favourite-link = Enlace favorito
+master.menu.consumer.edubotdom-favourite-link = Enlace favorito de edubotdom
 
 # master.menu.consumer ##########################################################
 
