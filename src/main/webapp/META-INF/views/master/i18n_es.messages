@@ -26,6 +26,12 @@ master.menu.sign-up = Registrarse
 master.menu.sign-in = Entrar
 master.menu.sign-out = Salir
 
+# master.menu.anonymous.shout #################################################
+
+master.menu.anonymous.shout= BotíaBulletin
+master.menu.anonymous.shout.list = Listar shouts
+master.menu.anonymous.shout.create = Crear shouts
+
 # master.menu.anonymous #######################################################
 
 master.menu.anonymous = Anónimo

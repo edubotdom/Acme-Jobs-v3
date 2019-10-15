@@ -27,6 +27,11 @@
 			<acme:menu-suboption code="master.menu.anonymous.seraguoro-favourite-link" action="https://www.youtube.com/watch?v=73GI6uS_4Ic"/>
 			
 		</acme:menu-option>
+		
+		<acme:menu-option code="master.menu.anonymous.shout" access="isAnonymous()">
+			<acme:menu-suboption code="master.menu.anonymous.shout.list" action="/anonymous/shout/list"/>
+			<acme:menu-suboption code="master.menu.anonymous.shout.create" action="/anonymous/shout/create"/>
+		</acme:menu-option>
 
 		<acme:menu-option code="master.menu.administrator" access="hasRole('Administrator')">
 			<acme:menu-suboption code="master.menu.administrator.user-accounts" action="/administrator/user-account/list"/>
