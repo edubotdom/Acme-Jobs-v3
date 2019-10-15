@@ -31,6 +31,7 @@ master.menu.sign-out = Salir
 master.menu.anonymous = Anónimo
 master.menu.anonymous.favourite-link = Enlace favorito
 master.menu.anonymous.juanogtir-favourite-link = Enlace favorito de juanogtir
+master.menu.anonymous.edubotdom-favourite-link = Enlace favorito de edubotdom
 
 # master.menu.administrator ###################################################
 
