@@ -30,6 +30,7 @@ master.menu.sign-out = Sign out
 
 master.menu.anonymous = Anonymous
 master.menu.anonymous.favourite-link = Favourite link
+master.menu.anonymous.edubotdom-favourite-link = edubotdom's favourite link
 
 # master.menu.administrator ###################################################
 
@@ -46,7 +47,7 @@ master.menu.provider.favourite-link = Favourite link
 
 master.menu.consumer = Consumer
 master.menu.consumer.favourite-link = Favourite link
-master.menu.consumer.edubotdom-favourite-link = edubotdom's favourite link
+
 
 # master.menu.user-account ####################################################
 
