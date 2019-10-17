@@ -28,7 +28,7 @@ master.menu.sign-out = Sign out
 
 # master.menu.anonymous.shout #################################################
 
-master.menu.anonymous.shout = BotíaBulletin
+master.menu.anonymous.shout = Shouts
 master.menu.anonymous.shout.list = List shouts
 master.menu.anonymous.shout.create = Create a shout
 
