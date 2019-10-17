@@ -296,4 +296,20 @@ m2=*
 has v</panel_attributes>
     <additional_attributes>10.0;10.0;10.0;120.0</additional_attributes>
   </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>287</x>
+      <y>413</y>
+      <w>238</w>
+      <h>77</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;Entity&gt;&gt;
+Shout
+--
++ moment: Date {Temporal(TIMESTAMP),Past}
++ author: String {Not Blank}
++ text: String {NotBlank}</panel_attributes>
+    <additional_attributes/>
+  </element>
 </diagram>

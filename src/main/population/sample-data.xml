@@ -16,5 +16,23 @@
 	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 
 	<import resource="conversion-service.xml" />
+	
+	<bean id="shout01" class="acme.entities.shouts.Shout">
+		<property name="author" value="Joey Delgado"/>
+		<property name="text" value="I enjoy making hardware reviews"/>
+		<property name="moment" value="2019/08/11 12:31"/>
+	</bean>
+	
+	<bean id="shout02" class="acme.entities.shouts.Shout">
+		<property name="author" value="Linus Tech Tips"/>
+		<property name="text" value="I enjoy too"/>
+		<property name="moment" value="2019/08/12 12:58"/>
+	</bean>
+
+	<bean id="shout03" class="acme.entities.shouts.Shout">
+		<property name="author" value="DIY Proyects"/>
+		<property name="text" value="For me is better build a table with epoxy"/>
+		<property name="moment" value="2019/08/13 15:31"/>
+	</bean>
 
 </beans>
