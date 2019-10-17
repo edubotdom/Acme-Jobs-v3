@@ -16,5 +16,26 @@
 	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 
 	<import resource="conversion-service.xml" />
+	
+	<!-- Shouts -->
+	
+	<bean id="shout01" class="acme.entities.roles.shouts.Shout">
+		<property name="author" value="Javvazzam"/>
+		<property name="text" value="El tenis es el mejor deporte que existe"/>
+		<property name="moment" value="2019/10/16 1:05"/>
+	</bean>
+	
+	<bean id="shout02" class="acme.entities.roles.shouts.Shout">
+		<property name="author" value="EdMig"/>
+		<property name="text" value="Lo que nos parecen pruebas amargas, son a menudo bendiciones disfrazadas"/>
+		<property name="moment" value="2019/10/16 00:05"/>
+	</bean>
+	
+	<bean id="shout03" class="acme.entities.roles.shouts.Shout">
+		<property name="author" value="La vida"/>
+		<property name="text" value="La vida es irónica. Se necesita a la tristeza para saber que es la felicidad y 
+		a la ausencia para valorar la presencia"/>
+		<property name="moment" value="2019/10/16 00:15"/>
+	</bean>
 
 </beans>
