@@ -312,4 +312,20 @@ Shout
 + text: String (NotBlank)</panel_attributes>
     <additional_attributes/>
   </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>392</x>
+      <y>448</y>
+      <w>224</w>
+      <h>91</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;Entity&gt;&gt;
+NoguerolBulletin
+--
++ moment: Date (Temporal(TIMESTAMP), Past)
++ name: String (NotBlank)
++ amount: Double {Digits(10, 2)} (NotNull)</panel_attributes>
+    <additional_attributes/>
+  </element>
 </diagram>

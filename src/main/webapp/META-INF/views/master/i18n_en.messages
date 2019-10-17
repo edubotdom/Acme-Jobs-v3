@@ -32,6 +32,12 @@ master.menu.anonymous.shout = Shouts
 master.menu.anonymous.shout.list = List shouts
 master.menu.anonymous.shout.create = Create a shout
 
+# master.menu.anonymous.noguerolbulletin #################################################
+
+master.menu.anonymous.noguerolbulletin = NoguerolBulletin
+master.menu.anonymous.noguerolbulletin.list = List warrants
+master.menu.anonymous.noguerolbulletin.create = Create a warrants
+
 # master.menu.anonymous #######################################################
 
 master.menu.anonymous = Anonymous

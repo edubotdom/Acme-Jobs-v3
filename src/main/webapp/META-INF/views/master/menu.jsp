@@ -32,6 +32,11 @@
 			<acme:menu-suboption code="master.menu.anonymous.shout.list" action="/anonymous/shout/list"/>
 			<acme:menu-suboption code="master.menu.anonymous.shout.create" action="/anonymous/shout/create"/>
 		</acme:menu-option>
+		
+		<acme:menu-option code="master.menu.anonymous.noguerolbulletin" access="isAnonymous()">
+			<acme:menu-suboption code="master.menu.anonymous.noguerolbulletin.list" action="/anonymous/noguerolbulletin/list"/>
+			<acme:menu-suboption code="master.menu.anonymous.noguerolbulletin.create" action="/anonymous/noguerolbulletin/create"/>
+		</acme:menu-option>
 
 		<acme:menu-option code="master.menu.administrator" access="hasRole('Administrator')">
 			<acme:menu-suboption code="master.menu.administrator.user-accounts" action="/administrator/user-account/list"/>

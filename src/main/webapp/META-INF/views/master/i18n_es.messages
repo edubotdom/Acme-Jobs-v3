@@ -32,6 +32,12 @@ master.menu.anonymous.shout= Gritos
 master.menu.anonymous.shout.list = Listar gritos
 master.menu.anonymous.shout.create = Crear grito
 
+# master.menu.anonymous.noguerolbulletin #################################################
+
+master.menu.anonymous.noguerolbulletin= NoguerolBulletin
+master.menu.anonymous.noguerolbulletin.list = Listar órdenes de arresto
+master.menu.anonymous.noguerolbulletin.create = Crear orden de arresto
+
 # master.menu.anonymous #######################################################
 
 master.menu.anonymous = Anónimo

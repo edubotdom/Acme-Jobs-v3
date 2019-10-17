@@ -20,33 +20,33 @@
 	
 	<!-- SHOUT'S BEANS-->
 
-	<bean id="shout01" class="acme.entities.shouts.Shout">
-		<property name="author" value="Eduardo Miguel Botía Domingo"/>
-		<property name="text" value="Mensaje de prueba 1"/>
+	<bean id="warrant01" class="acme.entities.noguerolbulletins.NoguerolBulletin">
+		<property name="name" value="Eduardo Miguel Botía Domingo"/>
+		<property name="amount" value="100.00"/>
 		<property name="moment" value="2019/09/03 11:41"/>
 	</bean>
 	
-	<bean id="shout02" class="acme.entities.shouts.Shout">
-		<property name="author" value="Eduardo Miguel Botía Domingo"/>
-		<property name="text" value="Mensaje de prueba 2"/>
+	<bean id="warrant02" class="acme.entities.noguerolbulletins.NoguerolBulletin">
+		<property name="name" value="Juan Noguerol Tirado"/>
+		<property name="amount" value="5000.00"/>
 		<property name="moment" value="2019/08/02 23:48"/>
 	</bean>
 	
-	<bean id="shout03" class="acme.entities.shouts.Shout">
-		<property name="author" value="Eduardo Miguel Botía Domingo"/>
-		<property name="text" value="Mensaje de prueba 3"/>
+	<bean id="warrant03" class="acme.entities.noguerolbulletins.NoguerolBulletin">
+		<property name="name" value="Daniel Arellano Martínez"/>
+		<property name="amount" value="100.00"/>
 		<property name="moment" value="2019/02/03 14:32"/>
 	</bean>
 	
-	<bean id="shout04" class="acme.entities.shouts.Shout">
-		<property name="author" value="Eduardo Miguel Botía Domingo"/>
-		<property name="text" value="Mensaje de prueba 4"/>
+	<bean id="warrant04" class="acme.entities.noguerolbulletins.NoguerolBulletin">
+		<property name="name" value="Javier Vázquez Zambrano"/>
+		<property name="amount" value="100.00"/>
 		<property name="moment" value="2019/04/21 18:55"/>
 	</bean>
 	
-	<bean id="shout05" class="acme.entities.shouts.Shout">
-		<property name="author" value="Eduardo Miguel Botía Domingo"/>
-		<property name="text" value="Mensaje de prueba 5"/>
+	<bean id="warrant05" class="acme.entities.noguerolbulletins.NoguerolBulletin">
+		<property name="name" value="Sergio Aguayyo Orozco"/>
+		<property name="amount" value="100.00"/>
 		<property name="moment" value="2019/09/03 19:42"/>
 	</bean>
 
