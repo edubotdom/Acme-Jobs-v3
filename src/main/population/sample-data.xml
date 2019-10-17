@@ -17,6 +17,30 @@
 
 	<import resource="conversion-service.xml" />
 	
+	<!-- BOTIABULLETIN'S BEANS-->
+	<bean id="botiaBulletin01" class="acme.entities.botiaBulletins.BotiaBulletin">
+		<property name="author" value="Eduardo Miguel Botía Domingo"/>
+		<property name="title" value="Title 1"/>
+		<property name="textBody" value="Mensaje de prueba 1"/>
+		<property name="moment" value="2018/10/05 05:12"/>
+		<property name="expiringDate" value="2021/03/01 04:20"/>
+	</bean>
+	
+	<bean id="botiaBulletin02" class="acme.entities.botiaBulletins.BotiaBulletin">
+		<property name="author" value="Eduardo Miguel Botía Domingo"/>
+		<property name="title" value="Title 2"/>
+		<property name="textBody" value="Mensaje de prueba 2"/>
+		<property name="moment" value="2015/11/02 06:11"/>
+		<property name="expiringDate" value="2041/04/09 08:11"/>
+	</bean>
+	
+	<bean id="botiaBulletin03" class="acme.entities.botiaBulletins.BotiaBulletin">
+		<property name="author" value="Eduardo Miguel Botía Domingo"/>
+		<property name="title" value="Title 3"/>
+		<property name="textBody" value="Mensaje de prueba 3"/>
+		<property name="moment" value="2011/11/04 11:42"/>
+		<property name="expiringDate" value="2041/10/22 21:54"/>
+	</bean>
 	
 	<!-- SHOUT'S BEANS-->
 

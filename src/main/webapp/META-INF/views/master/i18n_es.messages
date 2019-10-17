@@ -32,6 +32,11 @@ master.menu.anonymous.shout= Gritos
 master.menu.anonymous.shout.list = Listar gritos
 master.menu.anonymous.shout.create = Crear grito
 
+# master.menu.anonymous.botiaBulletin #########################################
+master.menu.anonymous.botiaBulletin = BotíaBulletin
+master.menu.anonymous.botiaBulletin.create = Crear boletín
+master.menu.anonymous.botiaBulletin.list= Listar boletines
+
 # master.menu.anonymous #######################################################
 
 master.menu.anonymous = Anónimo

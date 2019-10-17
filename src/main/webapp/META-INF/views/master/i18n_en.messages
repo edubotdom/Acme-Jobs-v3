@@ -32,6 +32,11 @@ master.menu.anonymous.shout = Shouts
 master.menu.anonymous.shout.list = List shouts
 master.menu.anonymous.shout.create = Create a shout
 
+# master.menu.anonymous.botiaBulletin #########################################
+master.menu.anonymous.botiaBulletin = BotíaBulletin
+master.menu.anonymous.botiaBulletin.create = Create bulletin
+master.menu.anonymous.botiaBulletin.list= List bulletin
+
 # master.menu.anonymous #######################################################
 
 master.menu.anonymous = Anonymous
