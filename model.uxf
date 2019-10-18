@@ -312,4 +312,22 @@ Shout
 + text: String (NotBlank)</panel_attributes>
     <additional_attributes/>
   </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>469</x>
+      <y>357</y>
+      <w>266</w>
+      <h>91</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;Entity&gt;&gt;
+Anime
+--
++ anime: String (NotBlank)
++ episodes: Integer (Digits, Positive)
++ aired: Date (Temporal(DATE), Past)
++ director: String (NotBlank)
+</panel_attributes>
+    <additional_attributes/>
+  </element>
 </diagram>

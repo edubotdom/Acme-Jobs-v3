@@ -50,4 +50,28 @@
 		<property name="moment" value="2019/09/03 19:42"/>
 	</bean>
 
+
+	<!-- ANIME BEANS-->
+	
+	<bean id="anime01" class="acme.entities.animes.Anime">
+		<property name="anime" value="Mousou Dairinin"/>
+		<property name="episodes" value="13"/>
+		<property name="aired" value="2004/02/03 00:00"/>
+		<property name="director" value="Satoshi Kon"/>
+	</bean>
+	
+	<bean id="anime02" class="acme.entities.animes.Anime">
+		<property name="anime" value="Hunter x Hunter (2011)"/>
+		<property name="episodes" value="148"/>
+		<property name="aired" value="2011/10/02 00:00"/>
+		<property name="director" value="Hiroshi Koujina"/>
+	</bean>
+	
+	<bean id="anime03" class="acme.entities.animes.Anime">
+		<property name="anime" value="Yojouhan Shinwa Taikei"/>
+		<property name="episodes" value="11"/>
+		<property name="aired" value="2010/04/23 00:00"/>
+		<property name="director" value="Masaaki Yuasa"/>
+	</bean>
+	
 </beans>
